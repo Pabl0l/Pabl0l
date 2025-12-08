@@ -4,6 +4,8 @@
 
 ---
 
+Portafolio web: https://pabl0l.netlify.app
+
 ## 🧩 Perfil Profesional
 Técnico en mantenimiento de sistemas informáticos con experiencia en:
 - Desarrollo frontend (React, Next.js, JavaScript, TypeScript)
