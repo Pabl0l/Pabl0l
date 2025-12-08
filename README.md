@@ -21,6 +21,7 @@ Técnico en mantenimiento de sistemas informáticos con experiencia en:
   *Institución Universitaria de Barranquilla (2024–2026)*
 
 - **Cisco:** Redes y ciberseguridad.
+  *Certificados visibles en: https://www.credly.com/users/juan-pablo-olivera-mendoza/badges#credly*
 
 ---
 
