@@ -2,16 +2,13 @@
 
 > *"i hate problems so i will fix them one by one"*
 
-Portafolio personal orientado a redes, desarrollo web y mantenimiento de sistemas. Diseño tipo **console**, contenido directo y técnico.
-
 ---
 
 ## 🧩 Perfil Profesional
 Técnico en mantenimiento de sistemas informáticos con experiencia en:
 - Desarrollo frontend (React, Next.js, JavaScript, TypeScript)
-- Redes Cisco (Capa 2 y 3), VLAN, DHCP, NAT, IPv4/IPv6
+- Redes Cisco (Capa 2 y 3) y protocolos de internet.
 - Mantenimiento y soporte de hardware/software
-- Prototipado y diseño funcional en Figma
 
 **Objetivo:** Desarrollar, mantener o dar soporte técnico en software, redes o hardware.
 
@@ -19,7 +16,7 @@ Técnico en mantenimiento de sistemas informáticos con experiencia en:
 
 ## 🎓 Formación y Certificaciones
 - **Técnico en Mantenimiento de Sistemas Informáticos**  
-  *Institución Universitaria de Barranquilla — En prácticas (2024–2026)*
+  *Institución Universitaria de Barranquilla (2024–2026)*
 
 - **Cisco:** Redes y ciberseguridad.
 
@@ -83,5 +80,5 @@ Colección de scripts para automatización y resolución de problemas.
 ---
 
 ## 🔧 Identidad Profesional
-**Bug Fixer — Ingeniería Telemática**  
+**Ingeniería Telemática**  
 Resolución de problemas de forma precisa, ordenada y directa.
