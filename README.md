@@ -4,10 +4,10 @@
 
 <br /><br />
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-pabl0l.netlify.app-39ff14?style=flat-square&labelColor=0d1117&logo=netlify&logoColor=39ff14)](https://pabl0l.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Pabl0l-39ff14?style=flat-square&labelColor=0d1117&logo=github&logoColor=ffffff)](https://github.com/Pabl0l)
-[![Email](https://img.shields.io/badge/Email-jpom1310%40gmail.com-39ff14?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=39ff14)](mailto:jpom1310@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-16%20certificaciones-39ff14?style=flat-square&labelColor=0d1117)](https://www.credly.com/users/juan-pablo-olivera-mendoza/badges)
+[![Portafolio](https://img.shields.io/badge/Portafolio-pabl0l.netlify.app-238636?style=flat-square&labelColor=161b22&logo=netlify&logoColor=ffffff)](https://pabl0l.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Pabl0l-238636?style=flat-square&labelColor=161b22&logo=github&logoColor=ffffff)](https://github.com/Pabl0l)
+[![Email](https://img.shields.io/badge/Email-jpom1310%40gmail.com-238636?style=flat-square&labelColor=161b22&logo=gmail&logoColor=ffffff)](mailto:jpom1310@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-16%20certificaciones-238636?style=flat-square&labelColor=161b22)](https://www.credly.com/users/juan-pablo-olivera-mendoza/badges)
 
 </div>
 
@@ -28,7 +28,7 @@ Construyo herramientas que eliminan trabajo repetitivo: automatizaciones, utilid
 | [Monitoreo SECOP](https://github.com/Pabl0l/Monitoreo-de-Licitaciones-SECOP) | Sigue licitaciones públicas, descarga y OCR de pliegos, extracción de requisitos con LLM local | Python · Ollama |
 | [Merge Helper](https://github.com/Pabl0l/extension-merge-helper) | Extensión de VS Code publicada en el Marketplace que fusiona bloques de código duplicados | TypeScript |
 | [Facturador OCR](https://github.com/Pabl0l/Transcriptor-de-facturas-bancarias-por-OCR) | Transcribe facturas de Nequi, Bancolombia y Daviplata a Google Sheets con KPIs | Python · Tesseract |
-| ColombiaGuard *(en desarrollo)* | Filtro de llamadas Android con fail-safe: si el filtro falla, la llamada entra | Kotlin · Compose |
+| [ColombiaGuard](https://github.com/Pabl0l/ColombiaGuard) | Filtro de llamadas Android con fail-safe: si el filtro falla, la llamada entra. En desarrollo | Kotlin · Compose |
 | [MinimalLauncher](https://github.com/Pabl0l/Minimal-Launcher) | Launcher Android minimalista, sin anuncios y configurable | Kotlin |
 
 También: [AutoVideo Studio](https://www.youtube.com/@blockedacc0unt) · [Lead Finder](https://github.com/Pabl0l/Buscador-de-leads-con-google-maps) · [UniArauca](https://uniarauca.netlify.app) · [dapNFC](https://dapnfc.netlify.app)
